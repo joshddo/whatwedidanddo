@@ -1,1 +1,3 @@
 # whatwedidanddo
+
+This repository contains information about what kind of thing we contribute to...
